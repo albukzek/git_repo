@@ -3,3 +3,4 @@ print(AddCommit);
 =======
 TestWelcomes
 >>>>>>> master
+Hello My Frend
