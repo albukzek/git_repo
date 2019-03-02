@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 print(AddCommit);
 =======
-TestWelcomes
->>>>>>> master
+TestWelcomes;
+>>>>>>> master;
