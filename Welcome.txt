@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+print(AddCommit);
+=======
 TestWelcomes
+>>>>>>> master
